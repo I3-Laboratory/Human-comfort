@@ -1,5 +1,4 @@
 # Human-comfort
-# Human Comfort
 
  A human comfort prediction framework for indoor personnel based on time-series analysis
 
